@@ -13,6 +13,7 @@ Is awesome research missing? Ask for inclusion by opening a pull request. Thanks
 
 ## Company Practices
 - [Modern Code Review: A Case Study at Google](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/80735342aebcbfc8af4878373f842c25323cb985.pdf): Caitlin Sadowski, Emma Söderberg, Luke Church, Michal Sipko, Alberto Bacchelli, ICSE SEIP 2018: 181-190
+- [Effective Code Reviews: Bettering Products, Teams, and Engineers](https://medium.com/paypal-tech/effective-code-reviews-53d62a203b2f): Gabriel McAdams, The PayPal Technology Blog (2020)
 
 
 ## Effectiveness and Value of Code Reviews
