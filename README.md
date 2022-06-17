@@ -11,14 +11,19 @@ Is awesome research missing? Ask for inclusion by opening a pull request. Thanks
 - [Impact of Developer Reputation on Code Review Outcomes in OSS Projects: An Empirical Investigation](https://doi.org/10.1145/2652524.2652544): Amiangshu Bosu and Jeffrey C, Carver, ESEM 2014: Article 33.
 - [Impact of Peer Code Review on Peer Impression Formation: A Survey](https://ieeexplore.ieee.org/document/6681346): Amiangshu Bosu and Jeffrey C. Carver, ESEM 2013: 133-142.
 
+
 ## Company Practices
 - [Modern Code Review: A Case Study at Google](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/80735342aebcbfc8af4878373f842c25323cb985.pdf): Caitlin Sadowski, Emma Söderberg, Luke Church, Michal Sipko, Alberto Bacchelli, ICSE SEIP 2018: 181-190
-
+- [Using a Balanced Scorecard to Identify Opportunities to Improve Code Review Effectiveness: An Industrial Experience Report](https://arxiv.org/pdf/2101.10585.pdf), Hasan, Masum and Iqbal, Anindya and Islam, Mohammad Rafid Ul and Rahman, AJM and Bosu, Amiangshu, Empirical Software Engineering Vol. 26, 2021.EMSE '21
 
 ## Effectiveness and Value of Code Reviews
 - [Characteristics of Useful Code Reviews: An Empirical Study at Microsoft](https://www.michaelagreiler.com/wp-content/uploads/2019/02/Characteristics-Of-Useful-Comments.pdf): Amiangshu Bosu, Michaela Greiler, Christian Bird, MSR 2015: 146-156
 - [Modern code reviews in open-source projects: which problems do they fix?](https://azaidman.github.io/publications/bellerMSR2014.pdf): Moritz Beller, Alberto Bacchelli, Andy Zaidman, Elmar Jürgens, MSR 2014: 202-211
 - [Identifying the Characteristics of Vulnerable Code Changes: An Empirical Study](https://doi.org/10.1145/2635868.26358800): Amiangshu Bosu, Jeffrey C. Carver, Munawar Hafiz, Patrick Hilley, and Derek Janni, FSE 2014: 257–268 
+- [Why Security Defects Go Unnoticed during Code Reviews? A Case-Control Study of the Chromium OS Project](https://amiangshu.com/papers/paul-ICSE-2021.pdf), Paul, Rajshakhar and Turzo, Asif K. and Bosu, Amiangshu, Proceedings of the 43th International Conference on Software Engineering (ICSE '21), Madrid, Spain.
+
+
 
 ## Social Skills and Challenges
 - [Interpersonal Conflicts During Code Review](https://arxiv.org/abs/2201.05425): Pavlína Wurzel Gonçalves, Gül Çalikli, Alberto Bacchelli, CoRR abs/2201.05425 (2022)
+- [Expressions of Sentiments during Code Reviews: Male vs. Female](https://amiangshu.com/papers/SANER_Gender.pdf), Paul, Rajshakhar and Bosu, Amiangshu and Sultana, Kazi Zakia, Proceedings of the 26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER '19).
