@@ -1,6 +1,6 @@
 # Awesome Code Review Research
-This is a list of awesome research around code reviews. The research is divided into several topics, whereby research papers often cover several topics and multiple associations could be possible.
-Is awesome research missing? Ask for inclusion by opening a pull request. Thanks!
+This is a list of awesome research around code reviews. The research is divided into several topics, whereby research papers often cover several topics and multiple associations could be possible. 
+Is awesome research missing? Ask for inclusion by opening a pull request. Please add a one sentence description of the main finding or outcome. Thanks!
 
 
 ## Understanding Code Review Practices and Challenges
