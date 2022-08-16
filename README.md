@@ -29,3 +29,8 @@ _This paper details the experience of developing an automated code review effect
 - [Interpersonal Conflicts During Code Review](https://arxiv.org/abs/2201.05425): Pavlína Wurzel Gonçalves, Gül Çalikli, Alberto Bacchelli, CoRR abs/2201.05425 (2022)
 - [Expressions of Sentiments during Code Reviews: Male vs. Female](https://amiangshu.com/papers/SANER_Gender.pdf), Paul, Rajshakhar and Bosu, Amiangshu and Sultana, Kazi Zakia, Proceedings of the 26th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER '19). _This paper describes how experessions of positive /negative sentiments are influenced by the gender of the authors and reviewers among six OSS projects._
 - [The Pushback Effects of Race, Ethnicity, Gender, and Age in Code Review](https://m-cacm.acm.org/magazines/2022/3/258909-the-pushback-effects-of-race-ethnicity-gender-and-age-in-code-review/fulltext)
+
+## Software Security and Code Reviews
+- [Software Security during Modern Code Review: The Developer’s Perspective](https://arxiv.org/pdf/2208.04261.pdf)
+Larissa Braz, Alberto Bacchelli
+- [Why Don’t Developers Detect Improper Input Validation? ’; DROP TABLE Papers;](https://arxiv.org/pdf/2102.06251.pdf) Larissa Braz, Enrico Fregnan, Gül Çalikli, Alberto Bacchelli
