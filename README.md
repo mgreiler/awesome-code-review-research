@@ -18,6 +18,8 @@ Industrial Code Review Processes, 2016](http://tobias-baum.de/rp/classification.
 - [Using a Balanced Scorecard to Identify Opportunities to Improve Code Review Effectiveness: An Industrial Experience Report](https://arxiv.org/pdf/2101.10585.pdf), Hasan, Masum and Iqbal, Anindya and Islam, Mohammad Rafid Ul and Rahman, AJM and Bosu, Amiangshu, Empirical Software Engineering Vol. 26, 2021.EMSE '21
 _This paper details the experience of developing an automated code review effectiveness analysis platform and how that can be used to adopt new initiatives._
 
+## Reviewer Selection
+- [Code Reviewer Recommendation in Tencent: Practice, Challenge, and Direction, 2022](https://xin-xia.github.io/publication/icse222.pdf): Comparision and performance evaluation of common code reviewer selection tools.
 
 ## Effectiveness and Value of Code Reviews
 - [Characteristics of Useful Code Reviews: An Empirical Study at Microsoft](https://www.michaelagreiler.com/wp-content/uploads/2019/02/Characteristics-Of-Useful-Comments.pdf): Amiangshu Bosu, Michaela Greiler, Christian Bird, MSR 2015: 146-156
