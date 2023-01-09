@@ -4,6 +4,8 @@ Is awesome research missing? Ask for inclusion by opening a pull request. Please
 
 
 ## Understanding Code Review Practices and Challenges
+- [A Faceted Classification Scheme for Change-Based
+Industrial Code Review Processes, 2016](http://tobias-baum.de/rp/classification.pdf): Classification of different code review processes
 - [Expectations, outcomes, and challenges of modern code review](https://sback.it/publications/icse2013.pdf): Alberto Bacchelli, Christian Bird, ICSE 2013: 712-721
 - [Code Reviewing in the Trenches: Challenges and Best Practices](https://www.michaelagreiler.com/wp-content/uploads/2019/03/Code-Reviewing-in-the-Trenches-Understanding-Challenges-Best-Practices-and-Tool-Needs.pdf): Laura MacLeod, Michaela Greiler, Margaret-Anne D. Storey, Christian Bird, Jacek Czerwonka, IEEE Softw. 35(4): 34-42 (2018)
 - [Process Aspects and Social Dynamics of Contemporary Code Review: Insights from Open Source Development and Industrial Practice at Microsoft](http://dx.doi.org/10.1109/TSE.2016.2576451): Amiangshu Bosu, Jeffrey C. Carver, Christian Bird, Jonathan Orbeck, and Christopher Chockley, IEEE Transactions on Software Engineering, 43(1): 56-75 (2017). _This paper provides an comparative analyses of contemporary code review practices between Microsoft and OSS projects._
