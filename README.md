@@ -13,6 +13,9 @@ Industrial Code Review Processes, 2016](http://tobias-baum.de/rp/classification.
 - [Impact of Developer Reputation on Code Review Outcomes in OSS Projects: An Empirical Investigation](https://doi.org/10.1145/2652524.2652544): Amiangshu Bosu and Jeffrey C, Carver, ESEM 2014: Article 33. _This paper provides empirical evidence regarding how code review outcomes such as code acceptance, first feedback, review completion time, and number of required patchsets are influenced by the reputation of a contributor._
 - [Impact of Peer Code Review on Peer Impression Formation: A Survey](https://ieeexplore.ieee.org/document/6681346): Amiangshu Bosu and Jeffrey C. Carver, ESEM 2013: 133-142. _This paper provides empirical evidence regarding peer impression formation among code review participants._
 
+## New approaches
+- [Test-Driven Code Review: An Empirical Study](https://sback.it/publications/icse2019a.pdf): Research that shows the benefit of reviewing test code.
+
 ## Company Practices
 - [Modern Code Review: A Case Study at Google](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/80735342aebcbfc8af4878373f842c25323cb985.pdf): Caitlin Sadowski, Emma Söderberg, Luke Church, Michal Sipko, Alberto Bacchelli, ICSE SEIP 2018: 181-190
 - [Using a Balanced Scorecard to Identify Opportunities to Improve Code Review Effectiveness: An Industrial Experience Report](https://arxiv.org/pdf/2101.10585.pdf), Hasan, Masum and Iqbal, Anindya and Islam, Mohammad Rafid Ul and Rahman, AJM and Bosu, Amiangshu, Empirical Software Engineering Vol. 26, 2021.EMSE '21
