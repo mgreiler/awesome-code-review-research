@@ -23,6 +23,7 @@ _This paper details the experience of developing an automated code review effect
 
 ## Reviewer Selection
 - [Code Reviewer Recommendation in Tencent: Practice, Challenge, and Direction, 2022](https://xin-xia.github.io/publication/icse222.pdf): Comparision and performance evaluation of common code reviewer selection tools.
+- [The effect of familiarity between author and reviewers on the effectiveness of code inspection meetings, 1999](https://www.proquest.com/openview/45a40e77be454b467ab4d058336a1a3b/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 ## Effectiveness and Value of Code Reviews
 - [Characteristics of Useful Code Reviews: An Empirical Study at Microsoft](https://www.michaelagreiler.com/wp-content/uploads/2019/02/Characteristics-Of-Useful-Comments.pdf): Amiangshu Bosu, Michaela Greiler, Christian Bird, MSR 2015: 146-156
