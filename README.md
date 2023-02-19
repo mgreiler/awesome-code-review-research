@@ -31,7 +31,8 @@ _This paper details the experience of developing an automated code review effect
 - [Identifying the Characteristics of Vulnerable Code Changes: An Empirical Study](https://doi.org/10.1145/2635868.26358800): Amiangshu Bosu, Jeffrey C. Carver, Munawar Hafiz, Patrick Hilley, and Derek Janni, FSE 2014: 257–268. _This paper characterizes code changes that are more likely to include vulnerablities to assist security code reviews._
 - [Why Security Defects Go Unnoticed during Code Reviews? A Case-Control Study of the Chromium OS Project](https://amiangshu.com/papers/paul-ICSE-2021.pdf), Paul, Rajshakhar and Turzo, Asif K. and Bosu, Amiangshu, Proceedings of the 43th International Conference on Software Engineering (ICSE '21), Madrid, Spain. _This paper provides an comparative analysis of the types of security defects that are identified during code reviews agains the ones that are more likely to escape._
 
-
+## Code Review Automation and Effort Reduction
+- [Evaluating how static analysis tools can reduce code review effort](https://ieeexplore.ieee.org/abstract/document/8103456): The authors show that issues found by static analysis overlap by 16% with issues found during manual code review.
 
 ## Social Skills and Challenges
 - [Interpersonal Conflicts During Code Review](https://arxiv.org/abs/2201.05425): Pavlína Wurzel Gonçalves, Gül Çalikli, Alberto Bacchelli, CoRR abs/2201.05425 (2022)
