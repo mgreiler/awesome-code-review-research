@@ -44,3 +44,7 @@ _This paper details the experience of developing an automated code review effect
 - [Software Security during Modern Code Review: The Developer’s Perspective](https://arxiv.org/pdf/2208.04261.pdf)
 Larissa Braz, Alberto Bacchelli
 - [Why Don’t Developers Detect Improper Input Validation? ’; DROP TABLE Papers;](https://arxiv.org/pdf/2102.06251.pdf) Larissa Braz, Enrico Fregnan, Gül Çalikli, Alberto Bacchelli
+
+
+## Research Tools and Techniques
+- [Automated Identification of Toxic Code Reviews Using ToxiCR, 2023](https://dl.acm.org/doi/abs/10.1145/3583562): _Presentation of ToxiCR, a supervised learning-based toxicity identification tool for code review interactions._
