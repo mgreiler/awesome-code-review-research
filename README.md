@@ -17,6 +17,7 @@ Industrial Code Review Processes, 2016](http://tobias-baum.de/rp/classification.
 
 ## New approaches
 - [Test-Driven Code Review: An Empirical Study](https://sback.it/publications/icse2019a.pdf): Research that shows the benefit of reviewing test code.
+- [When Testing Meets Code Review: Why and How Developers Review Tests](https://dl.acm.org/doi/10.1145/3180155.3180192): Research that investigates how test code is reviewed. 
 
 ## Company Practices
 - [Modern Code Review: A Case Study at Google](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/80735342aebcbfc8af4878373f842c25323cb985.pdf): Caitlin Sadowski, Emma Söderberg, Luke Church, Michal Sipko, Alberto Bacchelli, ICSE SEIP 2018: 181-190
