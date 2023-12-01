@@ -54,4 +54,4 @@ Larissa Braz, Alberto Bacchelli
 - [Automated Identification of Toxic Code Reviews Using ToxiCR, 2023](https://dl.acm.org/doi/abs/10.1145/3583562): _Presentation of ToxiCR, a supervised learning-based toxicity identification tool for code review interactions._
 
 ## Quantitative Data Correlations (not studies)
--[Does size matter in pull requests](https://insights.adadot.com/2023/11/23/does-size-matter-in-pull-requests-insights-from-30k-developers/)
+- [Does size matter in pull requests](https://insights.adadot.com/2023/11/23/does-size-matter-in-pull-requests-insights-from-30k-developers/)
