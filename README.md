@@ -287,12 +287,3 @@ Required checks:
 7. Do not describe citation count as evidence quality.
 8. Add a citation-source and retrieval-date field if counts are generated automatically.
 9. Re-check the “Recent” sections at least annually and move older work into the topic taxonomy.
-
-# Corrections made to the original list
-
-- *When Testing Meets Code Review* was published at ICSE in **2018**, not 2022.
-- The DOI for *Identifying the Characteristics of Vulnerable Code Changes* is `10.1145/2635868.2635880`; the original link had an extra trailing zero.
-- *Do Small Code Changes Merge Faster?* reports **no consistent size–merge-time relationship** in the studied projects; it should not be summarized as evidence that smaller changes merge faster.
-- *Test-Driven Code Review* did not simply show that reviewing tests is beneficial: test-first reviewers found more test-code defects, the same broad level of production defects, and fewer production maintainability issues.
-- The 1999 familiarity study concerns traditional inspection meetings and is better treated as historical background than as direct evidence about modern pull-request review.
-- Peer-reviewed publications, preprints, dissertations, and company blog analyses are now clearly separated.
